@@ -1,7 +1,7 @@
 # Algorithms Probability and Computing (2019)
-My solutions to the special assignments of the course: "Algorithms, Probability and Computing" at ETH Zurich. <br>
-In this course we had two Special Assignment that counted 40% to our final grade. <br>
-Additionally this repository contains my personal summary of this course.
+This repository contains:
+- Personal summary of the course [[PDF](https://github.com/municola/algorithms-probability-and-computing/blob/master/APC_ZS.pdf)]
+- My solutions to the special assignments (Counted 40% to our final grade)
 
 ## Special Assignment 1
 Random Search Trees, Randomized Incremental Construction, Bootstrapping<br />
